@@ -24,8 +24,8 @@ public class BeilypayClient {
     /**
      * api域名
      *
-     * 正式环境 http://service.beilypay.com
-     * 测试环境 http://dev.beilypay.com
+     * 正式环境 https://service.beilypay.com
+     * 测试环境 https://dev.beilypay.com
      */
     private String domain;
 
